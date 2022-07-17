@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于FINALx</title>
+    <url>/about/</url>
+    <content><![CDATA[<h2 id="来小亮给他整个活"><a class="anchor" href="#来小亮给他整个活">#</a> 来，小亮给他整个活！</h2>
+<p>草！走！忽略！ጿ ኈ ቼ ዽ ጿ</p>
+]]></content>
+      <categories>
+        <category>about</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>萌娘百科记录 (updating)</title>
+    <url>/logging/log_for_moegirl/</url>
+    <content><![CDATA[<p>注：用于记录自己正在维护或维护过的条目，但是因为太懒了所以不懒的时候我再更新吧 XD</p>
+<p>具体请见<span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi9Vc2VyOkZJTkFM">个人主页</span>和<span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi9TcGVjaWFsOiVFNyU5NCVBOCVFNiU4OCVCNyVFOCVCNCVBMSVFNyU4QyVBRS9GSU5BTA==">贡献列表</span></p>
+]]></content>
+      <categories>
+        <category>logging</category>
+      </categories>
+      <tags>
+        <tag>缓慢更新系列</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>/2022/07/16/hello-world/</url>
+    <url>/notes/hello_world/</url>
     <content><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo</span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting</span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub</span>.</p>
 <h2 id="quick-start"><a class="anchor" href="#quick-start">#</a> Quick Start</h2>
 <h3 id="create-a-new-post"><a class="anchor" href="#create-a-new-post">#</a> Create a new post</h3>
@@ -14,10 +37,89 @@
 <h3 id="deploy-to-remote-sites"><a class="anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3>
 <figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment</span></p>
 ]]></content>
+      <categories>
+        <category>notes</category>
+      </categories>
+      <tags>
+        <tag>init</tag>
+      </tags>
   </entry>
   <entry>
-    <title>init</title>
-    <url>/2022/07/17/init/</url>
-    <content><![CDATA[]]></content>
+    <title>Binary Notes for programming#0</title>
+    <url>/notes/0/</url>
+    <content><![CDATA[<p>二进制杂谈继承于 theme 建构者，用于记录自己的编程学习。</p>
+<h2 id="cc-dev-c"><a class="anchor" href="#cc-dev-c">#</a> C/C++ -- Dev-C++</h2>
+<p>为了大学能够有参加比赛的资格，正在苦练技术中，参考刘汝佳《算法竞赛入门经典》，目前进行到 &lt;树的递归遍历&gt; 一节。</p>
+<h2 id="python-pycharm"><a class="anchor" href="#python-pycharm">#</a> Python -- Pycharm</h2>
+<ul>
+<li>
+<p>执着于制作各种小工具，包括一些图像的批量简单处理。</p>
+</li>
+<li>
+<p>正在学习并使用 django 写更便捷的博客，丰富 django 原生架构使用的 MVC 函数。hexo 这样生成静态页面的框架（我对 hexo 的初步认知）我觉得不是很好用。</p>
+</li>
+</ul>
+<h2 id="java-adnroidstudio-eclipse"><a class="anchor" href="#java-adnroidstudio-eclipse">#</a> Java -- AdnroidStudio、eclipse</h2>
+<ul>
+<li>
+<p>由于 JSP 体量太大，不适合再小型云服务器上部署，现在已经停止学习 JSP。<s>(其实就是摆烂了)</s></p>
+</li>
+<li>
+<p>目前正在学习 Android 开发，目前学习到 SQLite 一节 (其实是因为太久没学，后面的搞忘了 (悲))</p>
+</li>
+</ul>
+<h2 id="js-忘了"><a class="anchor" href="#js-忘了">#</a> JS -- 忘了</h2>
+<ul>
+<li>以前学过 html-js-css-php 轴，但是由于太久没碰差点连 html 常用标签都忘了。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>notes</category>
+      </categories>
+      <tags>
+        <tag>init_notes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FINALx的单推记录（雾）(updating)</title>
+    <url>/vtubers-vups/single_push/</url>
+    <content><![CDATA[<p>注 1：为了突出自己确实是灵活的单推，这个记录我就灵活地少写一些 Vtb XD</p>
+<p>注 2：排名不分先后</p>
+<h2 id="绫奈奈奈-ayana-nana"><a class="anchor" href="#绫奈奈奈-ayana-nana">#</a> 绫奈奈奈 Ayana nana</h2>
+<p>人生哲学：如果你注意到了，那就注意到了，如果你没有注意到，<s>那么就没有注意到</s> 那么我会提醒你这个网站的左上角就是 Ayana nana</p>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMTg2NDY=">她的 bilibili 首页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9saXZlLmJpbGliaWxpLmNvbS8zMzA=">她的 bilibili 直播间</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi8lRTclQkIlQUIlRTUlQTUlODglRTUlQTUlODglRTUlQTUlODg=">她的萌娘百科</span> (仅用于 PC 端)</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9temgubW9lZ2lybC5vcmcuY24vJUU3JUJCJUFCJUU1JUE1JTg4JUU1JUE1JTg4JUU1JUE1JTg4">她的萌娘百科</span> (PC 端和 Mobile 端兼容)</li>
+</ul>
+<h2 id="早稻叽"><a class="anchor" href="#早稻叽">#</a> 早稻叽</h2>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMTk1MDY1OA==">她的 bilibili 首页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9saXZlLmJpbGliaWxpLmNvbS82MzE=">她的 bilibili 直播间</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi8lRTYlOTclQTklRTclQTglQkIlRTUlOEYlQkQ=">她的萌娘百科</span> (仅用于 PC 端)</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9temgubW9lZ2lybC5vcmcuY24vJUU2JTk3JUE5JUU3JUE4JUJCJUU1JThGJUJE">她的萌娘百科</span> (PC 端和 Mobile 端兼容)</li>
+</ul>
+<h2 id="犬山玉姬"><a class="anchor" href="#犬山玉姬">#</a> 犬山玉姬</h2>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMTIzNjI0NTE=">她的 bilibili 首页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9saXZlLmJpbGliaWxpLmNvbS80NjM0MTY3">她的 bilibili 直播间</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi8lRTclOEElQUMlRTUlQjElQjElRTclOEUlODklRTUlQTclQUM=">她的萌娘百科</span> (仅用于 PC 端)</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9temgubW9lZ2lybC5vcmcuY24vJUU3JThBJUFDJUU1JUIxJUIxJUU3JThFJTg5JUU1JUE3JUFD">她的萌娘百科</span> (PC 端和 Mobile 端兼容)</li>
+</ul>
+<h2 id="冰糖io"><a class="anchor" href="#冰糖io">#</a> 冰糖 IO</h2>
+<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMTk4Mjk3">她的 bilibili 首页</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9saXZlLmJpbGliaWxpLmNvbS9ibGFja2JvYXJkL2FjdGl2aXR5LXZ2emdJZFZWYWkuaHRtbA==">她的 bilibili 直播间</span> (目前企划中)</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi8lRTUlODYlQjAlRTclQjMlOTZJTw==">她的萌娘百科</span> (仅用于 PC 端)</li>
+<li><span class="exturl" data-url="aHR0cHM6Ly9temgubW9lZ2lybC5vcmcuY24vJUU1JTg2JUIwJUU3JUIzJTk2SU8=">她的萌娘百科</span> (PC 端和 Mobile 端兼容)</li>
+</ul>
+]]></content>
+      <categories>
+        <category>vtubers-vups</category>
+      </categories>
+      <tags>
+        <tag>缓慢更新系列</tag>
+      </tags>
   </entry>
 </search>
