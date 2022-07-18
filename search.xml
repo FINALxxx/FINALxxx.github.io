@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>萌娘百科记录 (updating)</title>
+    <url>/logging/log_for_moegirl/</url>
+    <content><![CDATA[<p>注：用于记录自己正在维护或维护过的条目，但是因为太懒了所以不懒的时候我再更新吧 XD</p>
+<p>具体请见<span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi9Vc2VyOkZJTkFM">个人主页</span>和<span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi9TcGVjaWFsOiVFNyU5NCVBOCVFNiU4OCVCNyVFOCVCNCVBMSVFNyU4QyVBRS9GSU5BTA==">贡献列表</span></p>
+]]></content>
+      <categories>
+        <category>logging</category>
+      </categories>
+      <tags>
+        <tag>缓慢更新系列</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于FINALx</title>
     <url>/about/</url>
     <content><![CDATA[<h2 id="来小亮给他整个活"><a class="anchor" href="#来小亮给他整个活">#</a> 来，小亮给他整个活！</h2>
@@ -65,19 +78,6 @@
       </categories>
       <tags>
         <tag>init</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>萌娘百科记录 (updating)</title>
-    <url>/logging/log_for_moegirl/</url>
-    <content><![CDATA[<p>注：用于记录自己正在维护或维护过的条目，但是因为太懒了所以不懒的时候我再更新吧 XD</p>
-<p>具体请见<span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi9Vc2VyOkZJTkFM">个人主页</span>和<span class="exturl" data-url="aHR0cHM6Ly96aC5tb2VnaXJsLm9yZy5jbi9TcGVjaWFsOiVFNyU5NCVBOCVFNiU4OCVCNyVFOCVCNCVBMSVFNyU4QyVBRS9GSU5BTA==">贡献列表</span></p>
-]]></content>
-      <categories>
-        <category>logging</category>
-      </categories>
-      <tags>
-        <tag>缓慢更新系列</tag>
       </tags>
   </entry>
   <entry>
