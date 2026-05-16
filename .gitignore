@@ -1,0 +1,36 @@
+# Docs - 忽略 Markdown 文档
+docs/**/*.md
+docs/**/*.png
+docs/**/*.jpg
+docs/**/*.jpeg
+docs/**/*.gif
+docs/**/*.svg
+
+# 保留 JS 和 CSS
+!docs/javascripts/
+!docs/stylesheets/
+
+# 保留空目录标记
+!.gitkeep
+
+# MkDocs
+site/
+.cache/
+.lvcache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
