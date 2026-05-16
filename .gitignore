@@ -15,6 +15,7 @@ docs/**/*.svg
 
 # MkDocs
 site/
+site/**/*
 .cache/
 .lvcache/
 
