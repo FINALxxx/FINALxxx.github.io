@@ -1,0 +1,131 @@
+site_name: HNNU Open Source Community
+site_url: ""
+site_author: FINALx
+site_description: 淮南师范学院开源社区学习资料
+
+theme:
+  name: shadcn
+  favicon: assets/avatar.png
+
+# 社交链接
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/FINALxxx
+
+# Git 仓库链接
+repo_name: FINALxxx/HOSC
+repo_url: https://github.com/FINALxxx/HOSC
+
+extra_css:
+  - stylesheets/custom.css
+
+extra_javascript:
+  - javascripts/load-fonts.js
+
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed
+  - pymdownx.blocks.caption
+  - pymdownx.blocks.details
+  - pymdownx.blocks.tab
+  - pymdownx.mark
+  - codehilite
+  - fenced_code
+  - shadcn.extensions.codexec
+  - shadcn.extensions.hover_card
+
+nav:
+  - "index.md"
+  - 目录: "Index/index.md"
+  - 课程: "Curriculum/index.md"
+  - 计算机科学: "ComputerScience/index.md"
+  - 课外兴趣: "MyInterests/index.md"
+  - 社区分享: "Community/index.md"
+  - 关于本项目: "About/index.md"
+
+
+  - 计算机科学(资源):
+    - STM32基础:
+      - "ComputerScience/STM32基础/器件结构.md"
+      - "ComputerScience/STM32基础/快速配置HAL.md"
+      - "ComputerScience/STM32基础/GPIO.md"
+      - "ComputerScience/STM32基础/RCC.md"
+      - "ComputerScience/STM32基础/中断系统.md"
+      - "ComputerScience/STM32基础/DMA.md"
+      - "ComputerScience/STM32基础/通信.md"
+      - "ComputerScience/STM32基础/电源.md"
+      - "ComputerScience/STM32基础/看门狗.md"
+      - "ComputerScience/STM32基础/架构.md"
+    - STM32进阶:
+      - "ComputerScience/STM32进阶/ARM内核概论.md"
+      - "ComputerScience/STM32进阶/中断系统.md"
+      - "ComputerScience/STM32进阶/DMA专题.md"
+      - "ComputerScience/STM32进阶/IAP与OTA.md"
+      - "ComputerScience/STM32进阶/企业级OTA.md"
+      - "ComputerScience/STM32进阶/日志+调试+第三方库.md"
+    - FreeRTOS:
+      - "ComputerScience/FreeRTOS/RTOS基础.md"
+      - "ComputerScience/FreeRTOS/RTOS进阶.md"
+      - "ComputerScience/FreeRTOS/RTOS高级.md"
+    - LVGL:
+      - "ComputerScience/LVGL/基础.md"
+      - "ComputerScience/LVGL/进阶.md"
+    - 原理图:
+      - "ComputerScience/原理图/电路分析.md"
+      - "ComputerScience/原理图/器件特性.md"
+    - PCB:
+      - "ComputerScience/PCB/PCB布局.md"
+      - "ComputerScience/PCB/PCB布线.md"
+
+
+  - 课程(资源):
+    - 计算机网络:
+      - "Curriculum/CN/计算机网络1.md"
+      - "Curriculum/CN/计算机网络2.md"
+    - 计算机组成原理:
+      - "Curriculum/CO/计算机组成原理.md"
+      - "Curriculum/CO/计组1.md"
+      - "Curriculum/CO/计组2.md"
+    - 编译原理:
+      - "Curriculum/CT/编译原理.md"
+    - 数据结构:
+      - "Curriculum/DS/数据结构1.md"
+      - "Curriculum/DS/数据结构2.md"
+      - "Curriculum/DS/算法复习.md"
+    - 数学:
+      - "Curriculum/Math/LinearAlgebra.md"
+      - "Curriculum/Math/函数与极限.md"
+      - "Curriculum/Math/数列极限复习.md"
+      - "Curriculum/Math/有理分式求解.md"
+      - "Curriculum/Math/概率论.md"
+      - "Curriculum/Math/高数证明题.md"
+    - 操作系统:
+      - "Curriculum/OS/Operating System.md"
+      - "Curriculum/OS/操作系统1.md"
+      - "Curriculum/OS/操作系统2.md"
+      - "Curriculum/OS/操作系统3.md"
+    - 软件工程:
+      - "Curriculum/SE/软件工程.md"
+    - 数据库:
+      - "Curriculum/DB/Database.md"
+      - "Curriculum/DB/defination.md"
+      - "Curriculum/DB/大型数据库.md"
+    - Java:
+      - "Curriculum/Java/Java.md"
+    - Android:
+      - "Curriculum/Android/基础.md"
+      - "Curriculum/Android/Dart.md"
+      - "Curriculum/Android/Flutter.md"
+      - "Curriculum/Android/界面.md"
+      - "Curriculum/Android/数据库编程.md"
+    - 微机原理:
+      - "Curriculum/MP/微机原理.md"
+    - Web:
+      - "Curriculum/Web/Web.md"
+      - "Curriculum/Web/html.md"
+      - "Curriculum/Web/html概念.md"
+      - "Curriculum/Web/css.md"
+      - "Curriculum/Web/js.md"
+    - UI设计:
+      - "Curriculum/UI/UI设计.md"
