@@ -1,7 +1,7 @@
-## 0. Hi,there!
+## Hi,there!
 你好，我叫[FINALx](https://github.com/FINALxxx)，而这个项目叫做[HOSC](https://github.com/FINALxxx/FINALxxx.github.io)。
 
-## 1. What is HOSC?
+## What is HOSC?
 !!! info "缩写解释"
     - HNNU = Huainan Normal University
     - HOSC = HNNU Open Source Community
@@ -13,10 +13,10 @@
 由于Markdown源文件可能涉及隐含的版权问题，因此仓库不会包含Markdown源文件，但仍会发布本网站渲染后的完整文件集，在复制和传播等情况下请务必遵守相关LICENSE。
 
 
-## 2. Where to start?
+## Where to start?
 这里是整个项目的[目录](Index/index.md)。
 
-## 3. Willing to share/contribute?
+## Willing to share/contribute?
 !!! info "前置条件"
     - 你需要能够访问Github，并且掌握一些Git知识，比如提交PR
     - 后续我们将设置镜像仓库到gitee，方便国内使用
@@ -30,5 +30,5 @@
     6. 在Github上提交PullRequest
 - 使用Clone获取仓库并提交贡献（不推荐）
 
-## 3. Does HOSC help you?
+## Does HOSC help you?
 如果HOSC有帮助到你，可以Star[HOSC仓库](https://github.com/FINALxxx/FINALxxx.github.io)，也可以Follow我哦~
