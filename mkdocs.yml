@@ -1,5 +1,5 @@
 site_name: <span class="site-title"><span class="short"><span class="hosc-green">HOSC</span></span><span class="full"><span class="hosc-green">H</span>NNU <span class="hosc-green">O</span>pen <span class="hosc-green">S</span>ource <span class="hosc-green">C</span>ommunity</span></span>
-site_url: ""
+site_url: "http://FINALxxx.github.io"
 site_author: FINALx
 site_description: 淮南师范学院开源社区学习资料
 
@@ -14,8 +14,8 @@ extra:
       link: https://github.com/FINALxxx
 
 # Git 仓库链接
-repo_name: FINALxxx/HOSC
-repo_url: https://github.com/FINALxxx/HOSC
+repo_name: FINALxxx/FINALxxx.github.io
+repo_url: https://github.com/FINALxxx/FINALxxx.github.io
 
 extra_css:
   - stylesheets/custom.css
