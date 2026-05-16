@@ -8,10 +8,13 @@ docs/**/*.svg
 
 # 保留 JS 和 CSS
 !docs/javascripts/
+!docs/javascripts/**
 !docs/stylesheets/
+!docs/stylesheets/**
 
 # 保留Community
 !docs/Community/
+!docs/Community/**
 
 # 保留空目录标记
 !.gitkeep
