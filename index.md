@@ -1,5 +1,5 @@
 ## 0. Hi,there!
-你好，我叫[FINALx](https://github.com/FINALxxx)，而这个项目叫做[HOSC](https://github.com/FINALxxx/HOSC)。
+你好，我叫[FINALx](https://github.com/FINALxxx)，而这个项目叫做[HOSC](https://github.com/FINALxxx/FINALxxx.github.io)。
 
 ## 1. What is HOSC?
 !!! info "缩写解释"
@@ -22,7 +22,7 @@
     - 后续我们将设置镜像仓库到gitee，方便国内使用
 
 - 使用Fork获取仓库并提交贡献（推荐）
-    1. 找到[本仓库](https://github.com/FINALxxx/HOSC)
+    1. 找到[本仓库](https://github.com/FINALxxx/FINALxxx.github.io)
     2. Fork仓库到自己的远程仓库（一次性）
     3. Clone远程仓库到本地（一次性）
     4. 每次修改前先Pull一次，然后在本地进行修改
@@ -31,4 +31,4 @@
 - 使用Clone获取仓库并提交贡献（不推荐）
 
 ## 3. Does HOSC help you?
-如果HOSC有帮助到你，可以Star[HOSC仓库](https://github.com/FINALxxx/HOSC)，也可以Follow我哦~
+如果HOSC有帮助到你，可以Star[HOSC仓库](https://github.com/FINALxxx/FINALxxx.github.io)，也可以Follow我哦~
