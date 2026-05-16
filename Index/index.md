@@ -10,10 +10,10 @@
 !!! info "用途:"
     为了个人兴趣而写的一些资料
 
-## 社区分享：Community
+## [社区分享：Community](../Community/index.md)
 !!! info "用途:"
     存放大家分享的学习资料
 
-## 关于本项目：About
+## [关于本项目：About](../About/index.md)
 !!! info "用途:"
     存放一些闲话;)

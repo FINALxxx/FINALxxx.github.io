@@ -1,5 +1,3 @@
-## 计算机科学：ComputerScience
-
 !!! danger "阅前注意"
     - "ComputerScience"文档与作者目前的工作栈比较符合，因此会主要更新该板块
     - 本项目文档仅作为参考，请自行查证正确性

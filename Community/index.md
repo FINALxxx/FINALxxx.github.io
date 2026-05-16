@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+/// details | 计算机相关的历年考试试卷资源
+- [往年试卷](./往年试卷/index.md)
+///
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+/// details | 计算机相关的电子书籍
+- [电子书资源](./电子书资源/index.md)
+///
 
-## Commands
+/// details | 关于考研
+- [考研相关](./考研相关/Prepare.md)
+///
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
