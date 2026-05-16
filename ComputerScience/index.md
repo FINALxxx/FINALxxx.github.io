@@ -12,7 +12,7 @@
 
 ## 计算机科学目录
 
-/// details | 我们所缺失的计算机计算机知识
+/// details | 我们所缺失的计算机基础知识
 - [南京大学PA](https://ysyx.oscc.cc/docs/ics-pa/)
 - [一生一芯项目](https://ysyx.oscc.cc/)
 ///
