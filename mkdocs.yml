@@ -34,15 +34,17 @@ markdown_extensions:
   - fenced_code
   - shadcn.extensions.codexec
   - shadcn.extensions.hover_card
+  - shadcn.extensions.echarts.alpha
 
 nav:
   - "index.md"
-  - 目录: "Index/index.md"
-  - 课程: "Curriculum/index.md"
-  - 计算机科学: "ComputerScience/index.md"
-  - 课外兴趣: "MyInterests/index.md"
-  - 社区分享: "Community/index.md"
-  - 关于本项目: "About/index.md"
+  - 目录:Index: "Index/index.md"
+  - 课程:Curriculum: "Curriculum/index.md"
+  - 计算机科学:CSci: "ComputerScience/index.md"
+  - 课外兴趣:MyInterests: "MyInterests/index.md"
+  - 社区分享:Community: "Community/index.md"
+  - 关于本项目:About: "About/index.md"
+  - JustSandbox: "Sandbox/index.md"
 
 
   - 计算机科学(资源):
