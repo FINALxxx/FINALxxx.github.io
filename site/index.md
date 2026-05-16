@@ -1,5 +1,5 @@
 ## 0. Hi,there!
-你好，我叫[FINALx](https://github.com/FINALxxx)，而这个项目叫做HOSC。
+你好，我叫[FINALx](https://github.com/FINALxxx)，而这个项目叫做[HOSC](https://github.com/FINALxxx/HOSC)。
 
 ## 1. What is HOSC?
 !!! info "缩写解释"
@@ -7,7 +7,11 @@
     - HOSC = HNNU Open Source Community
 
 理论上它只保存我在大学四年学到的一些知识，只是一些个人的学习笔记，不包含第三方资料。
+
 但是考虑到同一专业的课程会有变化、不同专业的课程有所不同，因此开放了"Community"板块，大家可以在这个板块分享自己的学习笔记。
+
+由于Markdown源文件可能涉及隐含的版权问题，因此仓库不会包含Markdown源文件，但仍会发布本网站渲染后的完整文件集，在复制和传播等情况下请务必遵守相关LICENSE。
+
 
 ## 2. Where to start?
 这里是整个项目的[目录](Index/index.md)。

@@ -17,9 +17,23 @@
 - [一生一芯项目](https://ysyx.oscc.cc/)
 ///
 
+/// details | 体系结构基础
+- [csapp_note_1](./体系结构/csapp_note_1.md)
+- [csapp_note_2](./体系结构/csapp_note_2.md)
+- [Cache概述](./体系结构/Cache概述.md)
+///
+
+/// details | 数字电路
+- [数制与码制](./数字电路/数制与码制.md)
+- [逻辑式基本运算定律](./数字电路/逻辑式基本运算定律.md)
+- [逻辑电路](./数字电路/逻辑电路.md)
+- [Scala&Chisel](./数字电路/Scala&Chisel.md)
+- [verilog与verilator](./数字电路/verilog与verilator.md)
+///
+
 /// details | STM32基础
 - [快速入门视频：江协科技](https://www.bilibili.com/video/BV1th411z7sn)
-- [快速入门视频：作者录制](https://www.bilibili.com/video/BV1KwoKBiEo4)
+- [快速入门视频：一生一芯UBL](https://www.bilibili.com/video/BV1KwoKBiEo4)
 - [快速配置HAL](./STM32基础/快速配置HAL.md)
 - [GPIO](./STM32基础/GPIO.md)
 - [RCC](./STM32基础/RCC.md)
