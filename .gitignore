@@ -10,6 +10,9 @@ docs/**/*.svg
 !docs/javascripts/
 !docs/stylesheets/
 
+# 保留Community
+!docs/Community/
+
 # 保留空目录标记
 !.gitkeep
 
