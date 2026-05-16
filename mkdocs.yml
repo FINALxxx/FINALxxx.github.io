@@ -1,4 +1,4 @@
-site_name: HNNU Open Source Community
+site_name: <span class="site-title"><span class="short"><span class="hosc-green">HOSC</span></span><span class="full"><span class="hosc-green">H</span>NNU <span class="hosc-green">O</span>pen <span class="hosc-green">S</span>ource <span class="hosc-green">C</span>ommunity</span></span>
 site_url: ""
 site_author: FINALx
 site_description: 淮南师范学院开源社区学习资料
@@ -77,6 +77,16 @@ nav:
     - PCB:
       - "ComputerScience/PCB/PCB布局.md"
       - "ComputerScience/PCB/PCB布线.md"
+    - 体系结构:
+      - "ComputerScience/体系结构/Cache概述.md"
+      - "ComputerScience/体系结构/csapp_note_1.md"
+      - "ComputerScience/体系结构/csapp_note_2.md"
+    - 数字电路:
+      - "ComputerScience/数字电路/逻辑电路.md"
+      - "ComputerScience/数字电路/Scala&Chisel.md"
+      - "ComputerScience/数字电路/verilog与verilator.md"
+      - "ComputerScience/数字电路/数制与码制.md"
+      - "ComputerScience/数字电路/逻辑式基本运算定律.md"
 
 
   - 课程(资源):
