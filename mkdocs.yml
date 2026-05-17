@@ -42,14 +42,9 @@ nav:
   - 课程:Curriculum: "Curriculum/index.md"
   - 计算机科学:CSci: "ComputerScience/index.md"
   - 课外兴趣:MyInterests: "MyInterests/index.md"
-  - 社区分享:Community: "Community/index.md"
-  - 关于本项目:About: "About/index.md"
+  - 关于我:About: "About/index.md"
   - JustSandbox: "Sandbox/index.md"
 
-  - 社区分享(资源):
-    - 往年试卷: "Community/往年试卷/index.md"
-    - 电子书资源: "Community/电子书资源/index.md"
-    - 考研相关: "Community/考研相关/Prepare.md"
   - 计算机科学(资源):
     - STM32基础:
       - "ComputerScience/STM32基础/器件结构.md"
