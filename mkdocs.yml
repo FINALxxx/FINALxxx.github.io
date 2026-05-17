@@ -25,6 +25,8 @@ extra_javascript:
 
 markdown_extensions:
   - admonition
+  - md_in_html
+  - attr_list
   - pymdownx.tabbed
   - pymdownx.blocks.caption
   - pymdownx.blocks.details
