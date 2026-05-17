@@ -1,4 +1,4 @@
-## I'm FINALxxx
+## I'm FINALx
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);关注绫奈奈奈谢谢喵&center=true&size=27)](https://space.bilibili.com/186463)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />

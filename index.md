@@ -6,6 +6,7 @@
 ## What is FOSN?
 !!! info "缩写解释"
     - FOSN = FINALx Open Source Notebook
+    - ~~鼠标划过左上角有惊喜~~
     /// details | 闲话
     原本是想做一个偏社区性质的分享站点（HOSC=HNNU Open Source Community），受限于GithubPages比较难访问等因素，修改为了仅分享个人笔记的站点。
     ///
