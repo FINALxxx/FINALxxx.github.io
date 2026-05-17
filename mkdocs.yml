@@ -1,4 +1,4 @@
-site_name: <span class="site-title"><span class="short"><span class="hosc-green">FOSN</span></span><span class="full"><span class="hosc-green">F</span>INALxxx <span class="hosc-green">O</span>pen <span class="hosc-green">S</span>ource <span class="hosc-green">N</span>otebook</span></span>
+site_name: <span class="site-title"><span class="short"><span class="hosc-green">FOSN</span></span><span class="full"><span class="hosc-green">F</span>INALx <span class="hosc-green">O</span>pen <span class="hosc-green">S</span>ource <span class="hosc-green">N</span>otebook</span></span>
 site_url: "http://FINALxxx.github.io"
 site_author: FINALx
 site_description: FINALx的学习笔记
@@ -27,6 +27,7 @@ markdown_extensions:
   - admonition
   - md_in_html
   - attr_list
+  - pymdownx.tilde
   - pymdownx.tabbed
   - pymdownx.blocks.caption
   - pymdownx.blocks.details
@@ -44,7 +45,7 @@ nav:
   - 课程:Curriculum: "Curriculum/index.md"
   - 计算机科学:CSci: "ComputerScience/index.md"
   - 课外兴趣:MyInterests: "MyInterests/index.md"
-  - 关于我:About: "About/index.md"
+  - 关于我:AboutMe: "AboutMe/index.md"
   - JustSandbox: "Sandbox/index.md"
 
   - 计算机科学(资源):
