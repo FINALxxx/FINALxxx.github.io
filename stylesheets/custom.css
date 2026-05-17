@@ -1,4 +1,15 @@
 @layer utilities {
+    /* 隐藏徽章表格的标题行 */
+    article table thead {
+        display: none;
+    }
+    article table {
+        border: none;
+    }
+    article table td {
+        border: none;
+        padding: 0.25rem;
+    }
     /* 正文字体 */
     body, article, p, li {
         font-size: 18px;
